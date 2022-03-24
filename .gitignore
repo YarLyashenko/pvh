@@ -1,0 +1,8 @@
+.idea
+.tmp
+node_modules/*
+# Reports section
+allure-report
+allure-results
+*.iml
+*.log
