@@ -1,7 +1,7 @@
 import AuthPopup from './auth.popup';
 
 class LoginPopup {
-    private popup = AuthPopup.authModal;
+    public popup = AuthPopup.authModal;
 
     public get email() {
         return this.popup.$(`#signin-email`);
