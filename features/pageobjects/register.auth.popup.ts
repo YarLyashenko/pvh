@@ -33,7 +33,7 @@ class RegisterPopup {
 
     public async register(email: string, password: string, agreeTerms: boolean, agreeNewsletter: boolean) {
         await this.fillEmail(email);
-        await this.fillPassword(email);
+        await this.fillPassword(password);
         if (agreeTerms) {
             await this.agreeTermsCheckbox.click();
         }
