@@ -1,0 +1,246 @@
+{
+  "uid": "7518724bb3011490",
+  "name": "As a new user, I want to add address",
+  "fullName": "Customer account address.As a new user, I want to add address",
+  "historyId": "3278e64d6ae07e12a554d4b5b7d957e8",
+  "time": {
+    "start": 1648137835155,
+    "stop": 1648137847171,
+    "duration": 12016
+  },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "testStage": {
+    "status": "passed",
+    "steps": [
+      {
+        "name": "Given I am on the NL page",
+        "time": {
+          "start": 1648137835165,
+          "stop": 1648137836149,
+          "duration": 984
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "When I close cookies popup",
+        "time": {
+          "start": 1648137836149,
+          "stop": 1648137837866,
+          "duration": 1717
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "And I open desktop login popup",
+        "time": {
+          "start": 1648137837867,
+          "stop": 1648137839281,
+          "duration": 1414
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "And I click register button",
+        "time": {
+          "start": 1648137839281,
+          "stop": 1648137839856,
+          "duration": 575
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "And I register with valid email, password and subscribe to newsletter",
+        "time": {
+          "start": 1648137839856,
+          "stop": 1648137841073,
+          "duration": 1217
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "And I click address book button",
+        "time": {
+          "start": 1648137841073,
+          "stop": 1648137844412,
+          "duration": 3339
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "And I click new address button",
+        "time": {
+          "start": 1648137844412,
+          "stop": 1648137845020,
+          "duration": 608
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "When I fill firstname:Dart, lastname:Vader, address1:Danzigerkade 165, address2:2, city:Amsterdam, zipcode:1013 AP, phone:77778888, countryCode:NL",
+        "time": {
+          "start": 1648137845020,
+          "stop": 1648137846434,
+          "duration": 1414
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "And I click save new address",
+        "time": {
+          "start": 1648137846435,
+          "stop": 1648137846530,
+          "duration": 95
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "Then I verify firstname:Dart, lastname:Vader, address1:Danzigerkade 165, address2:2, city:Amsterdam, zipcode:1013 AP, phone:77778888, country:Nederland",
+        "time": {
+          "start": 1648137846530,
+          "stop": 1648137847169,
+          "duration": 639
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      }
+    ],
+    "attachments": [],
+    "parameters": [],
+    "attachmentsCount": 0,
+    "shouldDisplayMessage": false,
+    "stepsCount": 10,
+    "hasContent": true
+  },
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "framework",
+      "value": "wdio"
+    },
+    {
+      "name": "language",
+      "value": "javascript"
+    },
+    {
+      "name": "thread",
+      "value": "0-0"
+    },
+    {
+      "name": "suite",
+      "value": "Customer account address"
+    },
+    {
+      "name": "testClass",
+      "value": "Customer account address"
+    },
+    {
+      "name": "testMethod",
+      "value": "As a new user, I want to add address"
+    },
+    {
+      "name": "package",
+      "value": "Customer account address"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure1"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "browser",
+      "value": "chrome-99.0.4844.82"
+    }
+  ],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "7518724bb3011490.json",
+  "parameterValues": [
+    "chrome-99.0.4844.82"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "uid": "b1a8273437954620fa374b796ffaacdd",
+  "name": "behaviors",
+  "children": [
+    {
+      "name": "As a new user, I want to add address",
+      "uid": "7518724bb3011490",
+      "parentUid": "b1a8273437954620fa374b796ffaacdd",
+      "status": "passed",
+      "time": {
+        "start": 1648137835155,
+        "stop": 1648137847171,
+        "duration": 12016
+      },
+      "flaky": false,
+      "newFailed": false,
+      "newPassed": false,
+      "newBroken": false,
+      "retriesCount": 0,
+      "retriesStatusChange": false,
+      "parameters": [
+        "chrome-99.0.4844.82"
+      ]
+    },
+    {
+      "name": "As a new user, I want to register",
+      "uid": "cbb70c3e0d0e4e4b",
+      "parentUid": "b1a8273437954620fa374b796ffaacdd",
+      "status": "passed",
+      "time": {
+        "start": 1648137843771,
+        "stop": 1648137850619,
+        "duration": 6848
+      },
+      "flaky": false,
+      "newFailed": false,
+      "newPassed": false,
+      "newBroken": false,
+      "retriesCount": 1,
+      "retriesStatusChange": false,
+      "parameters": [
+        "chrome-99.0.4844.82"
+      ]
+    },
+    {
+      "name": "During registration I want to see validation on email input",
+      "uid": "fe68ef2a7dd2b239",
+      "parentUid": "b1a8273437954620fa374b796ffaacdd",
+      "status": "passed",
+      "time": {
+        "start": 1648137866527,
+        "stop": 1648137871099,
+        "duration": 4572
+      },
+      "flaky": false,
+      "newFailed": false,
+      "newPassed": false,
+      "newBroken": false,
+      "retriesCount": 4,
+      "retriesStatusChange": false,
+      "parameters": [
+        "chrome-99.0.4844.82"
+      ]
+    },
+    {
+      "name": "During registration I want to see validation on password input",
+      "uid": "ff27215af81e431c",
+      "parentUid": "b1a8273437954620fa374b796ffaacdd",
+      "status": "passed",
+      "time": {
+        "start": 1648137882493,
+        "stop": 1648137886470,
+        "duration": 3977
+      },
+      "flaky": false,
+      "newFailed": false,
+      "newPassed": false,
+      "newBroken": false,
+      "retriesCount": 3,
+      "retriesStatusChange": false,
+      "parameters": [
+        "chrome-99.0.4844.82"
+      ]
+    },
+    {
+      "name": "During registration I want to see validation on accept terms checkbox",
+      "uid": "2e0e271974aa0c53",
+      "parentUid": "b1a8273437954620fa374b796ffaacdd",
+      "status": "passed",
+      "time": {
+        "start": 1648137890151,
+        "stop": 1648137894065,
+        "duration": 3914
+      },
+      "flaky": false,
+      "newFailed": false,
+      "newPassed": false,
+      "newBroken": false,
+      "retriesCount": 1,
+      "retriesStatusChange": false,
+      "parameters": [
+        "chrome-99.0.4844.82"
+      ]
+    }
+  ]
+}

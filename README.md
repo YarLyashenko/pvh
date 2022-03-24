@@ -10,7 +10,7 @@ To run execute with node 16:
 npm run wdio
 ```
 
-[Allure Report](allure-report-example/index.html) would be generated automatically in the folder `allure-report`
+[Allure Report](https://yarlyashenko.github.io/pvh) would be generated automatically in the folder `allure-report`
 
 ##
 

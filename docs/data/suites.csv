@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Mar 24 17:04:42 CET 2022","Thu Mar 24 17:04:46 CET 2022","3977","","Registration Page","","Registration Page","During registration I want to see validation on password input","During registration I want to see validation on password input",""
+"passed","Thu Mar 24 17:04:03 CET 2022","Thu Mar 24 17:04:10 CET 2022","6848","","Registration Page","","Registration Page","As a new user, I want to register","As a new user, I want to register",""
+"passed","Thu Mar 24 17:04:50 CET 2022","Thu Mar 24 17:04:54 CET 2022","3914","","Registration Page","","Registration Page","During registration I want to see validation on accept terms checkbox","During registration I want to see validation on accept terms checkbox",""
+"passed","Thu Mar 24 17:03:55 CET 2022","Thu Mar 24 17:04:07 CET 2022","12016","","Customer account address","","Customer account address","As a new user, I want to add address","As a new user, I want to add address",""
+"passed","Thu Mar 24 17:04:26 CET 2022","Thu Mar 24 17:04:31 CET 2022","4572","","Registration Page","","Registration Page","During registration I want to see validation on email input","During registration I want to see validation on email input",""

@@ -1,0 +1,180 @@
+{
+  "uid": "9b37479d61873dc6",
+  "name": "During registration I want to see validation on email input",
+  "fullName": "Registration Page.During registration I want to see validation on email input",
+  "historyId": "58bc2b8929ab380be57809872fc9e00a",
+  "time": {
+    "start": 1648137850619,
+    "stop": 1648137855514,
+    "duration": 4895
+  },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "testStage": {
+    "status": "passed",
+    "steps": [
+      {
+        "name": "Given I am on the nl page",
+        "time": {
+          "start": 1648137850619,
+          "stop": 1648137853975,
+          "duration": 3356
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "When I close cookies popup",
+        "time": {
+          "start": 1648137853975,
+          "stop": 1648137854222,
+          "duration": 247
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "And I open desktop login popup",
+        "time": {
+          "start": 1648137854222,
+          "stop": 1648137854431,
+          "duration": 209
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "And I click register button",
+        "time": {
+          "start": 1648137854431,
+          "stop": 1648137854652,
+          "duration": 221
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "When I fill email: on registration page",
+        "time": {
+          "start": 1648137854652,
+          "stop": 1648137855476,
+          "duration": 824
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "Then Email verification message is shown:Vul het veld in on registration page",
+        "time": {
+          "start": 1648137855476,
+          "stop": 1648137855512,
+          "duration": 36
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      }
+    ],
+    "attachments": [],
+    "parameters": [],
+    "attachmentsCount": 0,
+    "shouldDisplayMessage": false,
+    "stepsCount": 6,
+    "hasContent": true
+  },
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "framework",
+      "value": "wdio"
+    },
+    {
+      "name": "language",
+      "value": "javascript"
+    },
+    {
+      "name": "thread",
+      "value": "0-1"
+    },
+    {
+      "name": "suite",
+      "value": "Registration Page"
+    },
+    {
+      "name": "testClass",
+      "value": "Registration Page"
+    },
+    {
+      "name": "testMethod",
+      "value": "During registration I want to see validation on email input"
+    },
+    {
+      "name": "package",
+      "value": "Registration Page"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure1"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "browser",
+      "value": "chrome-99.0.4844.82"
+    }
+  ],
+  "links": [],
+  "hidden": true,
+  "retry": true,
+  "extra": {
+    "categories": [],
+    "tags": []
+  },
+  "source": "9b37479d61873dc6.json",
+  "parameterValues": [
+    "chrome-99.0.4844.82"
+  ]
+}

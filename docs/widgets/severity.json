@@ -1,0 +1,57 @@
+[
+  {
+    "uid": "7518724bb3011490",
+    "name": "As a new user, I want to add address",
+    "time": {
+      "start": 1648137835155,
+      "stop": 1648137847171,
+      "duration": 12016
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "ff27215af81e431c",
+    "name": "During registration I want to see validation on password input",
+    "time": {
+      "start": 1648137882493,
+      "stop": 1648137886470,
+      "duration": 3977
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "fe68ef2a7dd2b239",
+    "name": "During registration I want to see validation on email input",
+    "time": {
+      "start": 1648137866527,
+      "stop": 1648137871099,
+      "duration": 4572
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "2e0e271974aa0c53",
+    "name": "During registration I want to see validation on accept terms checkbox",
+    "time": {
+      "start": 1648137890151,
+      "stop": 1648137894065,
+      "duration": 3914
+    },
+    "status": "passed",
+    "severity": "normal"
+  },
+  {
+    "uid": "cbb70c3e0d0e4e4b",
+    "name": "As a new user, I want to register",
+    "time": {
+      "start": 1648137843771,
+      "stop": 1648137850619,
+      "duration": 6848
+    },
+    "status": "passed",
+    "severity": "normal"
+  }
+]

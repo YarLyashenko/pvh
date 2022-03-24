@@ -1,0 +1,210 @@
+{
+  "uid": "ff27215af81e431c",
+  "name": "During registration I want to see validation on password input",
+  "fullName": "Registration Page.During registration I want to see validation on password input",
+  "historyId": "5e7739d3686ca01237f5074274357f40",
+  "time": {
+    "start": 1648137882493,
+    "stop": 1648137886470,
+    "duration": 3977
+  },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 3,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "testStage": {
+    "status": "passed",
+    "steps": [
+      {
+        "name": "Given I am on the pl page",
+        "time": {
+          "start": 1648137882493,
+          "stop": 1648137884711,
+          "duration": 2218
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "When I close cookies popup",
+        "time": {
+          "start": 1648137884711,
+          "stop": 1648137884956,
+          "duration": 245
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "And I open desktop login popup",
+        "time": {
+          "start": 1648137884956,
+          "stop": 1648137885342,
+          "duration": 386
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "And I click register button",
+        "time": {
+          "start": 1648137885342,
+          "stop": 1648137886012,
+          "duration": 670
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "When I fill password:Grzegorz Brzęczyszczykiewicz on registration page",
+        "time": {
+          "start": 1648137886012,
+          "stop": 1648137886436,
+          "duration": 424
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "Then Password verification message is shown:Hasło musi zawierać od 5 do 20 znaków on registration page",
+        "time": {
+          "start": 1648137886436,
+          "stop": 1648137886469,
+          "duration": 33
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      }
+    ],
+    "attachments": [],
+    "parameters": [],
+    "attachmentsCount": 0,
+    "shouldDisplayMessage": false,
+    "stepsCount": 6,
+    "hasContent": true
+  },
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "framework",
+      "value": "wdio"
+    },
+    {
+      "name": "language",
+      "value": "javascript"
+    },
+    {
+      "name": "thread",
+      "value": "0-1"
+    },
+    {
+      "name": "suite",
+      "value": "Registration Page"
+    },
+    {
+      "name": "testClass",
+      "value": "Registration Page"
+    },
+    {
+      "name": "testMethod",
+      "value": "During registration I want to see validation on password input"
+    },
+    {
+      "name": "package",
+      "value": "Registration Page"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure1"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "browser",
+      "value": "chrome-99.0.4844.82"
+    }
+  ],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [
+      {
+        "uid": "ec84acc72195db56",
+        "status": "passed",
+        "time": {
+          "start": 1648137878563,
+          "stop": 1648137882492,
+          "duration": 3929
+        }
+      },
+      {
+        "uid": "80612b44c551c9c4",
+        "status": "passed",
+        "time": {
+          "start": 1648137874795,
+          "stop": 1648137878562,
+          "duration": 3767
+        }
+      },
+      {
+        "uid": "9a42af9ac4d53426",
+        "status": "passed",
+        "time": {
+          "start": 1648137871099,
+          "stop": 1648137874795,
+          "duration": 3696
+        }
+      }
+    ],
+    "categories": [],
+    "tags": []
+  },
+  "source": "ff27215af81e431c.json",
+  "parameterValues": [
+    "chrome-99.0.4844.82"
+  ]
+}

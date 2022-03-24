@@ -1,0 +1,180 @@
+{
+  "uid": "670ccc359919e55c",
+  "name": "During registration I want to see validation on accept terms checkbox",
+  "fullName": "Registration Page.During registration I want to see validation on accept terms checkbox",
+  "historyId": "1f74a7c6d1ccbf7c040989a9aeef2d4a",
+  "time": {
+    "start": 1648137886470,
+    "stop": 1648137890151,
+    "duration": 3681
+  },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "testStage": {
+    "status": "passed",
+    "steps": [
+      {
+        "name": "Given I am on the nl page",
+        "time": {
+          "start": 1648137886471,
+          "stop": 1648137888431,
+          "duration": 1960
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "When I close cookies popup",
+        "time": {
+          "start": 1648137888431,
+          "stop": 1648137888661,
+          "duration": 230
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "And I open desktop login popup",
+        "time": {
+          "start": 1648137888661,
+          "stop": 1648137889056,
+          "duration": 395
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "And I click register button",
+        "time": {
+          "start": 1648137889056,
+          "stop": 1648137889861,
+          "duration": 805
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "When I click submit registration button",
+        "time": {
+          "start": 1648137889861,
+          "stop": 1648137890115,
+          "duration": 254
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "Then Accept terms verification message is shown:Bevestig dat je akkoord gaat met de algemene voorwaarden on registration page",
+        "time": {
+          "start": 1648137890115,
+          "stop": 1648137890149,
+          "duration": 34
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      }
+    ],
+    "attachments": [],
+    "parameters": [],
+    "attachmentsCount": 0,
+    "shouldDisplayMessage": false,
+    "stepsCount": 6,
+    "hasContent": true
+  },
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "framework",
+      "value": "wdio"
+    },
+    {
+      "name": "language",
+      "value": "javascript"
+    },
+    {
+      "name": "thread",
+      "value": "0-1"
+    },
+    {
+      "name": "suite",
+      "value": "Registration Page"
+    },
+    {
+      "name": "testClass",
+      "value": "Registration Page"
+    },
+    {
+      "name": "testMethod",
+      "value": "During registration I want to see validation on accept terms checkbox"
+    },
+    {
+      "name": "package",
+      "value": "Registration Page"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure1"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "browser",
+      "value": "chrome-99.0.4844.82"
+    }
+  ],
+  "links": [],
+  "hidden": true,
+  "retry": true,
+  "extra": {
+    "categories": [],
+    "tags": []
+  },
+  "source": "670ccc359919e55c.json",
+  "parameterValues": [
+    "chrome-99.0.4844.82"
+  ]
+}

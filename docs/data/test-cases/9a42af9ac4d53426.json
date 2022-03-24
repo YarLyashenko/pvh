@@ -1,0 +1,180 @@
+{
+  "uid": "9a42af9ac4d53426",
+  "name": "During registration I want to see validation on password input",
+  "fullName": "Registration Page.During registration I want to see validation on password input",
+  "historyId": "5e7739d3686ca01237f5074274357f40",
+  "time": {
+    "start": 1648137871099,
+    "stop": 1648137874795,
+    "duration": 3696
+  },
+  "description": "",
+  "descriptionHtml": "",
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "testStage": {
+    "status": "passed",
+    "steps": [
+      {
+        "name": "Given I am on the nl page",
+        "time": {
+          "start": 1648137871100,
+          "stop": 1648137873179,
+          "duration": 2079
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "When I close cookies popup",
+        "time": {
+          "start": 1648137873180,
+          "stop": 1648137873393,
+          "duration": 213
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "And I open desktop login popup",
+        "time": {
+          "start": 1648137873393,
+          "stop": 1648137873763,
+          "duration": 370
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "And I click register button",
+        "time": {
+          "start": 1648137873763,
+          "stop": 1648137874446,
+          "duration": 683
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "When I fill password: on registration page",
+        "time": {
+          "start": 1648137874446,
+          "stop": 1648137874753,
+          "duration": 307
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      },
+      {
+        "name": "Then Password verification message is shown:Vul het veld in on registration page",
+        "time": {
+          "start": 1648137874753,
+          "stop": 1648137874793,
+          "duration": 40
+        },
+        "status": "passed",
+        "steps": [],
+        "attachments": [],
+        "parameters": [],
+        "attachmentsCount": 0,
+        "shouldDisplayMessage": false,
+        "stepsCount": 0,
+        "hasContent": false
+      }
+    ],
+    "attachments": [],
+    "parameters": [],
+    "attachmentsCount": 0,
+    "shouldDisplayMessage": false,
+    "stepsCount": 6,
+    "hasContent": true
+  },
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "framework",
+      "value": "wdio"
+    },
+    {
+      "name": "language",
+      "value": "javascript"
+    },
+    {
+      "name": "thread",
+      "value": "0-1"
+    },
+    {
+      "name": "suite",
+      "value": "Registration Page"
+    },
+    {
+      "name": "testClass",
+      "value": "Registration Page"
+    },
+    {
+      "name": "testMethod",
+      "value": "During registration I want to see validation on password input"
+    },
+    {
+      "name": "package",
+      "value": "Registration Page"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure1"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "browser",
+      "value": "chrome-99.0.4844.82"
+    }
+  ],
+  "links": [],
+  "hidden": true,
+  "retry": true,
+  "extra": {
+    "categories": [],
+    "tags": []
+  },
+  "source": "9a42af9ac4d53426.json",
+  "parameterValues": [
+    "chrome-99.0.4844.82"
+  ]
+}
