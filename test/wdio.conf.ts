@@ -218,9 +218,8 @@ export const config: WebdriverIO.Config = {
      * @param {Array.<Object>} capabilities list of capabilities details
      */
     onPrepare: function (config, capabilities) {
-        rimraf("allure-report", (err: Error) => {
-        });
-        rimraf("allure-result", (err: Error) => {
+
+        rimraf("allure-results", (err: Error) => {
         });
     },
     /**
